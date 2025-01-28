@@ -4,5 +4,5 @@ let amigos = [];
 //Función para ingresar un nombre
 
 function ingresarNombre() {
-  let 
+  const nombre = document
 }
