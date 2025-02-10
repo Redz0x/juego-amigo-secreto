@@ -1,4 +1,4 @@
-Amigo Secreto
+<h1>Amigo Secreto</h1>
 
 Captura de Pantalla
 
