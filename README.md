@@ -70,13 +70,10 @@
     </style>
 </head>
 <body>
-
     <h1>Amigo Secreto</h1>
-
     <p>
         ¡Bienvenido al proyecto <strong>Amigo Secreto</strong>! Esta es una aplicación web sencilla que te permite organizar un sorteo de "Amigo Secreto" entre tus amigos. Puedes agregar nombres, ver la lista de participantes y realizar un sorteo aleatorio para seleccionar un ganador.
     </p>
-
     <h2>Funcionalidades</h2>
     <ul>
         <li><strong>Agregar nombres</strong>: Ingresa los nombres de tus amigos en el campo de texto. Solo se permiten nombres válidos (sin números ni caracteres especiales).</li>
@@ -84,21 +81,16 @@
         <li><strong>Realizar sorteo</strong>: Haz clic en el botón "Sortear" para seleccionar un amigo secreto al azar. El resultado se muestra en la pantalla.</li>
         <li><strong>Validación de entrada</strong>: El programa valida que no se ingresen números o campos vacíos.</li>
     </ul>
-
     <h2>Capturas de Pantalla</h2>
-
     <h3>1. Interfaz Principal</h3>
     <img src="screenshots/main-interface.png" alt="Interfaz Principal" class="screenshot">
     <p>Captura de la interfaz principal del proyecto.</p>
-
     <h3>2. Agregar Nombres</h3>
     <img src="screenshots/add-names.png" alt="Agregar Nombres" class="screenshot">
     <p>Captura mostrando cómo agregar nombres a la lista.</p>
-
     <h3>3. Resultado del Sorteo</h3>
     <img src="screenshots/draw-result.png" alt="Resultado del Sorteo" class="screenshot">
     <p>Captura del resultado del sorteo.</p>
-
     <h2>Cómo Usar</h2>
     <ol>
         <li><strong>Clona el repositorio</strong>:
@@ -115,14 +107,12 @@
             Cuando hayas agregado todos los nombres, haz clic en "Sortear" para obtener un resultado aleatorio.
         </li>
     </ol>
-
     <h2>Tecnologías Utilizadas</h2>
     <ul>
         <li><strong>HTML</strong>: Estructura de la página.</li>
         <li><strong>CSS</strong>: Estilos y diseño.</li>
         <li><strong>JavaScript</strong>: Lógica del programa (validación, sorteo, etc.).</li>
     </ul>
-
     <h2>Estructura del Proyecto</h2>
     <pre>
 amigo-secreto/
@@ -138,7 +128,6 @@ amigo-secreto/
 │   └── draw-result.png
 └── README.md           # Archivo README (este archivo)
     </pre>
-
     <h2>Cómo Contribuir</h2>
     <p>
         ¡Tu contribución es bienvenida! Si deseas mejorar este proyecto, sigue estos pasos:
@@ -150,28 +139,23 @@ amigo-secreto/
         <li>Haz push a la rama (<code>git push origin nueva-funcionalidad</code>).</li>
         <li>Abre un <strong>Pull Request</strong> en GitHub.</li>
     </ol>
-
     <h2>Licencia</h2>
     <p>
         Este proyecto está bajo la licencia <strong>MIT</strong>. Para más detalles, consulta el archivo <a href="LICENSE">LICENSE</a>.
     </p>
-
     <h2>Autor</h2>
     <p>
         - <strong>Nombre</strong>: [Tu Nombre]<br>
         - <strong>GitHub</strong>: <a href="https://github.com/tuusuario">@tuusuario</a><br>
         - <strong>Correo</strong>: tuemail@example.com
     </p>
-
     <h2>Agradecimientos</h2>
     <p>
         - Inspiración: [Nombre de la inspiración o recurso].<br>
         - Recursos: [Enlace a recursos utilizados].
     </p>
-
     <p>
         ¡Gracias por usar <strong>Amigo Secreto</strong>! Si tienes alguna pregunta o sugerencia, no dudes en contactarme. 😊
     </p>
-
 </body>
 </html>
