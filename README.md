@@ -4,8 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Amigo Secreto - README</title>
-    <!-- Enlaza el archivo CSS -->
-    <link rel="stylesheet" href="css/styles.css">
+   <link rel="stylesheet" href="css/styles.css">
 </head>
 <body>
     <h1>Amigo Secreto</h1>
