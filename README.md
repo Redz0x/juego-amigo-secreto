@@ -85,7 +85,7 @@ amigo-secreto/
     <h2>Autor</h2>
     <p>
         - <strong>Nombre</strong>: Alexánder Cardona<br>
-        - <strong>GitHub</strong>: <a href="https://github.com/Redz0x/juego-amigo-secreto">@tuusuario</a><br>
+        - <strong>GitHub</strong>: <a href="https://github.com/Redz0x/juego-amigo-secreto">@Redz0x</a><br>
         - <strong>Correo</strong>: jalexpeca@gmail.com
     </p>
     <h2>Agradecimientos</h2>
