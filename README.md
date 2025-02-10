@@ -8,7 +8,7 @@
 <body>
     <h1>Amigo Secreto</h1>
     <p>
-        ¡Bienvenido al proyecto <strong>Amigo Secreto</strong>! Esta es una aplicación web sencilla que te permite organizar un sorteo de "Amigo Secreto" entre tus amigos. Puedes agregar nombres, ver la lista de participantes y realizar un sorteo aleatorio para seleccionar un ganador.
+        ¡Bienvenido al proyecto <strong>Amigo Secreto</strong>! Esta es una aplicación web sencilla que te permite organizar un sorteo entre tus amigos. Puedes agregar nombres, ver la lista de participantes y realizar un sorteo aleatorio para seleccionar un ganador.
     </p>
     <h2>Funcionalidades</h2>
     <ul>
@@ -83,7 +83,7 @@ amigo-secreto/
     </p>
     <h2>Autor</h2>
     <p>
-        - <strong>Nombre</strong>: [Tu Nombre]<br>
+        - <strong>Nombre</strong>: Alexánder Cardona<br>
         - <strong>GitHub</strong>: <a href="https://github.com/tuusuario">@tuusuario</a><br>
         - <strong>Correo</strong>: tuemail@example.com
     </p>
