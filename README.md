@@ -4,70 +4,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Amigo Secreto - README</title>
-    <style>
-        body {
-            font-family: 'Inter', sans-serif;
-            line-height: 1.6;
-            color: #333;
-            margin: 0;
-            padding: 20px;
-            background-color: #f9f9f9;
-        }
-        h1, h2, h3 {
-            font-family: 'Merriweather', serif;
-            color: #2c3e50;
-        }
-        h1 {
-            font-size: 2.5rem;
-            border-bottom: 2px solid #2c3e50;
-            padding-bottom: 10px;
-        }
-        h2 {
-            font-size: 2rem;
-            margin-top: 30px;
-            color: #34495e;
-        }
-        h3 {
-            font-size: 1.5rem;
-            color: #16a085;
-        }
-        p {
-            font-size: 1.1rem;
-            margin: 15px 0;
-        }
-        a {
-            color: #3498db;
-            text-decoration: none;
-        }
-        a:hover {
-            text-decoration: underline;
-        }
-        code {
-            background-color: #ecf0f1;
-            padding: 2px 5px;
-            border-radius: 3px;
-            font-family: 'Courier New', Courier, monospace;
-        }
-        .screenshot {
-            max-width: 100%;
-            height: auto;
-            border: 1px solid #ddd;
-            border-radius: 5px;
-            margin: 20px 0;
-        }
-        .button {
-            display: inline-block;
-            padding: 10px 20px;
-            background-color: #3498db;
-            color: #fff;
-            border-radius: 5px;
-            text-decoration: none;
-            margin: 10px 0;
-        }
-        .button:hover {
-            background-color: #2980b9;
-        }
-    </style>
+    <!-- Enlaza el archivo CSS -->
+    <link rel="stylesheet" href="css/styles.css">
 </head>
 <body>
     <h1>Amigo Secreto</h1>
@@ -118,8 +56,10 @@
 amigo-secreto/
 │
 ├── index.html          # Archivo principal HTML
-├── style.css           # Archivo de estilos CSS
-├── app.js              # Archivo de lógica JavaScript
+├── css/                # Carpeta para estilos CSS
+│   └── styles.css      # Archivo de estilos CSS
+├── js/                 # Carpeta para scripts JavaScript
+│   └── app.js          # Archivo de lógica JavaScript
 ├── assets/             # Carpeta de recursos (imágenes, etc.)
 │   └── amigo-secreto.png
 ├── screenshots/        # Capturas de pantalla
