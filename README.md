@@ -3,14 +3,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Amigo Secreto - README</title>
-    <!-- Enlaza el archivo CSS -->
     <link rel="stylesheet" href="CSS/styleReadme.css">
+
 </head>
 <body>
     <h1>Amigo Secreto</h1>
     <p>
-        ¡Bienvenido al proyecto <strong>Amigo Secreto</strong>! Esta es una aplicación web sencilla que te permite organizar un sorteo de "Amigo Secreto" entre tus amigos. Puedes agregar nombres, ver la lista de participantes y realizar un sorteo aleatorio para seleccionar un ganador.
+        ¡Bienvenido al proyecto <strong>Amigo Secreto</strong>! Esta es una aplicación web sencilla que te permite organizar un sorteo entre tus amigos. Puedes agregar nombres, ver la lista de participantes y realizar un sorteo aleatorio para seleccionar un ganador.
     </p>
     <h2>Funcionalidades</h2>
     <ul>
@@ -32,8 +31,8 @@
     <h2>Cómo Usar</h2>
     <ol>
         <li><strong>Clona el repositorio</strong>:
-            <pre><code>git clone https://github.com/tuusuario/amigo-secreto.git</code></pre>
-        </li>
+            <pre><code>git clone https://github.com/Redz0x/juego-amigo-secreto.git</code></pre>
+        </li> 
         <li><strong>Abre el proyecto</strong>:
             <pre><code>cd amigo-secreto</code></pre>
             Abre el archivo <code>index.html</code> en tu navegador.
@@ -85,9 +84,9 @@ amigo-secreto/
     </p>
     <h2>Autor</h2>
     <p>
-        - <strong>Nombre</strong>: [Tu Nombre]<br>
-        - <strong>GitHub</strong>: <a href="https://github.com/tuusuario">@tuusuario</a><br>
-        - <strong>Correo</strong>: tuemail@example.com
+        - <strong>Nombre</strong>: Alexánder Cardona<br>
+        - <strong>GitHub</strong>: <a href="https://github.com/Redz0x/juego-amigo-secreto">@tuusuario</a><br>
+        - <strong>Correo</strong>: jalexpeca@gmail.com
     </p>
     <h2>Agradecimientos</h2>
     <p>
