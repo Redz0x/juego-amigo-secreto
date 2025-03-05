@@ -87,14 +87,8 @@ amigo-secreto/
         - <strong>Nombre</strong>: Alexánder Cardona<br>
         - <strong>GitHub</strong>: <a href="https://github.com/Redz0x/">@Redz0x</a><br>
         - <strong>Correo</strong>: jalexpeca@gmail.com
+        - <strong>Enlace al aplicativo</strong>: <a href="https://redz0x.github.io/juego-amigo-secreto/">Amigo Secreto</a><br>
     </p>
-    <h2>Agradecimientos</h2>
-    <p>
-        - Inspiración: [Nombre de la inspiración o recurso].<br>
-        - Recursos: [Enlace a recursos utilizados].
-    </p>
-    <p>
-        ¡Gracias por usar <strong>Amigo Secreto</strong>! Si tienes alguna pregunta o sugerencia, no dudes en contactarme. 😊
-    </p>
+
 </body>
 </html>
