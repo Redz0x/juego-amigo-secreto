@@ -21,13 +21,13 @@
     <h2>Capturas de Pantalla</h2>
     <h3>1. Interfaz Principal</h3>
     <img src="screenshots/main-interface.png" alt="Interfaz Principal" class="screenshot">
-    <p>Captura de la interfaz principal del proyecto.</p>
+    <p>Interfaz principal del proyecto.</p>
     <h3>2. Agregar Nombres</h3>
     <img src="screenshots/add-names.png" alt="Agregar Nombres" class="screenshot">
-    <p>Captura mostrando cómo agregar nombres a la lista.</p>
+    <p>Agregamos un nombre en el campo de entrada y pulsamos en el botón añadir.</p>
     <h3>3. Resultado del Sorteo</h3>
     <img src="screenshots/draw-result.png" alt="Resultado del Sorteo" class="screenshot">
-    <p>Captura del resultado del sorteo.</p>
+    <p>Una vez añadimos más de dos nombres hacemos clic en el botón Sortear Amigo y este nos dará como resultado un nombre al azar.</p>
     <h2>Cómo Usar</h2>
     <ol>
         <li><strong>Clona el repositorio</strong>:
